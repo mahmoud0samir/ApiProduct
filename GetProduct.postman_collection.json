@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "59b25b0c-8e2a-47c9-b74a-ca3e6e3d3497",
+		"name": "GetEmployee",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32908046"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7183/api/GetProdect",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/GetProdect",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"GetProdect"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7183/api/GetProdect",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/GetProductById/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"GetProductById",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7183/api/PostProduct",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/PutProduct",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"PutProduct"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7183/api/PostProduct",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/PutProduct",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"PutProduct"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7183/api/PostProduct",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/DeleteProduct",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"DeleteProduct"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7183/api/GetProdect",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/GetProdect",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"GetProdect"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
